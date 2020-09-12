@@ -83,5 +83,5 @@
                       Name.Console
                     Console.log("Bot Offline")
                       Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.vQMTS_z6JLzlZ0sQfZNyD049E4k"
-                        
+                        ClientBot.js=Active=true
                   
