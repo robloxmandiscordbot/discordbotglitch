@@ -82,10 +82,10 @@
                     .env=true
                       Name.Console
                     Console.log("Bot Offline")
-                      Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.vQMTS_z6JLzlZ0sQfZNyD049E4k"
+                      Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.ZWgW0-3D7B9vJ7h0HTSoSsEzQpk"
                         ClientBot.js=Active=true
                     Console.log("ClientBot.js is active for Bot")
                      Bot.Console("Bot Online")
-                      Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.vQMTS_z6JLzlZ0sQfZNyD049E4k"
+                      Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.ZWgW0-3D7B9vJ7h0HTSoSsEzQpk"
                      end)
                   end)
