@@ -46,7 +46,7 @@
   "kiosk_secondary_apps": ...,
   "minimum_chrome_version": "versionString",
   "nacl_modules": [...],
-  "oauth2": "discord.com/api/oauth2/authorize?client_id=754142346186195026&permissions=0&scope=bot",
+  "oauth2": "oauth2",
   "offline_enabled": true,
   "optional_permissions": ["tabs"],
   "permissions": ["tabs"],
@@ -82,10 +82,10 @@
                     .env=true
                       Name.Console
                     Console.log("Bot Offline")
-                      Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.ZWgW0-3D7B9vJ7h0HTSoSsEzQpk"
+                      Token="token"
                         ClientBot.js=Active=true
                     Console.log("ClientBot.js is active for Bot")
                      Bot.Console("Bot Online")
-                      Token="NzU0MTQyMzQ2MTg2MTk1MDI2.X1wbyg.ZWgW0-3D7B9vJ7h0HTSoSsEzQpk"
+                      Token="token"
                      end)
                   end)
